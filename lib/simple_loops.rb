@@ -28,4 +28,4 @@ def output_array(array)
     puts array[count]
     count += 1
   end
-endend
+end
